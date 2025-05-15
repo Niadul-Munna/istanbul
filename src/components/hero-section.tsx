@@ -8,7 +8,7 @@ const HeroSection = () => {
         <div className="bg-[#BAAAFF] w-[1px]  h-full"></div>
         <div className="bg-[#7EFFE7] w-[1px]  h-full"></div>
         <div className="bg-[#BAAAFF] w-[1px]  h-full"></div>
-        <div className="bg-[#7EFFE7] w-[20px]  h-full"></div>
+        <div className="bg-[#7EFFE7] w-[1px]  h-full"></div>
         <div className="bg-[#BAAAFF] w-[1px]  h-full"></div>
         <div className="bg-[#7EFFE7] w-[1px]  h-full"></div>
         <div className="bg-[#BAAAFF] w-[1px]  h-full"></div>
