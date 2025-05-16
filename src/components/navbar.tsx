@@ -15,7 +15,12 @@ const Navbar = () => {
         <ul className="flex gap-6">
           {navMenu.map((item, index) => (
             <li className="text-neutral-100" key={index}>
-              <Link href={item.href}>{item.name}</Link>
+              <Link
+                className="hover:underline hover:underline-offset-4"
+                href={item.href}
+              >
+                {item.name}
+              </Link>
             </li>
           ))}
         </ul>
